@@ -12,8 +12,8 @@ In total, this is a very good book for statisticans who want to get into the are
 
 However, This book also has some drawbacks. It focus on the practice of concepts and hardly analyze the theory for diffcult concepts. For example, it introduced XGBoost to us and told us how to code in R to use XGBoost algorithm, but it never told us how XGBoost works. I have to google Tianqi Chen's paper and PPT to have a deep understanding of Gradient Boosting Tree, which is unfriendly to novice.
 
-In conclusion, this is a very good book for those people with statistical background who want to step into the area of data science. You could review the foundamental statistics from the aspect of data scientist and learn the major algorithms step by step. If you already finished some relevant courses like Andrew Ng's Machine Learning, you could read this book and gain a deeper understanding of what you have learned.
+In conclusion, this is a very good book for those people with statistical background who want to step into the area of data science. You could review the foundamental statistics from the perspective of data scientists and learn the major algorithms step by step. If you already finished some relevant courses like Andrew Ng's Machine Learning, you could read this book and gain a deeper understanding of what you have learned.
 
-Thanks to Peter Bruce and ANdrew Bruce for this excellent book!
+Thanks to Peter Bruce and Andrew Bruce for this excellent book!
 
 Sheng
