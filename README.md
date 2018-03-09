@@ -1,6 +1,6 @@
 # Book-Reviews-of-Practical-Statistics-for-Data-Science
 
-In total, this is a very good book for statisticans who want to get into the area of data science. This book provides us a new point of view to look at most traditional data science problems: EDA, A/B testing, predictive modelling and unsupervised learning. I will listed some important thoughts and methods I learned from this book below.
+In total, this is a very good book for statisticans who want to get into the area of data science. This book provides us a new point of view to look at most traditional data science problems: EDA, A/B testing, predictive modelling and unsupervised learning. I will list some important thoughts and methods I learned from this book below.
 
 1. Data Visualization: This book recommended two very nice plots which are new to me: hexagon binning plot and violin plot. Hexagon binning plot groups the data points (records) into hexagonal grids with a color indicating the number of data points. When dealing with big data problems in which you have millions of data, the traditional scatter plot will be useless and you need to rely on hexagon plot to figure out the relationship between teo numeric variables. When you want to visualize the categorical variables, the violin plot could help to performe the the distrbution of data within each categories and the relationship amaong each categories simultaneously, which provided more information than traditional boxplot.
 
